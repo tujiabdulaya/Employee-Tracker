@@ -2,7 +2,7 @@ DROP DATABASE IF EXISTS Sports;
 CREATE DATABASE Sports;
 
 
-USE Sport;
+USE Sports;
 
 
 CREATE TABLE department(

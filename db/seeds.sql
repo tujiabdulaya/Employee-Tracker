@@ -1,4 +1,4 @@
-USE Sport;
+USE Sports;
 
 
 INSERT INTO employees(id, first_name, last_name, roles_id, manager_id)

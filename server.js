@@ -305,6 +305,7 @@ function newDepartment() {
 function Quit() {
     console.log('SEEYAA!');
     process.exit();
+    db.escape();
     
 }
 
