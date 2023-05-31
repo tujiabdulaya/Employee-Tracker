@@ -7,7 +7,7 @@ USE Sports;
 
 CREATE TABLE department(
     id INT AUTO_INCREMENT,
-    roles_id INT,
+    roles_id INT h,
     department_name VARCHAR(25) NOT NULL,
     PRIMARY KEY (id)
 );
