@@ -1,7 +1,7 @@
 const connection = require('./connection')
 
 class DB {
-ggfg
+
     constructor(connection) {
         this.connection = connection;
     }
