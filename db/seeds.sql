@@ -28,4 +28,3 @@ VALUES
 ('Sports Management', 223000, 4),
 ('Head Ticketing', 538000, 5); 
 
-ghhghg 
