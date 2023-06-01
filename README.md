@@ -6,8 +6,10 @@ This application is used to keep track of a Sports businsee employees, their dep
 ## Deployed link 
 
 
-### Usage
 
+
+### Usage
+Run the command node server.js to view the application and answer the questions that appear using the arrow keys and the keyboard.
  
 
 
